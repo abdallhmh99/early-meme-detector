@@ -1,0 +1,3 @@
+text,image_url,label
+"This is a harmless meme.","https://example.com/sample1.jpg","safe"
+"This is a harmful meme.","https://example.com/sample2.jpg","harmful"
